@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou Octávio Augusto Campos Ribeiro, tenho 18 anos e sou um entusiasta da programação com formação técnica em Informática para Internet e atualmente cursando Técnico em Desenvolvimento de Sistemas pelo SENAI. Meu próximo passo é aprofundar meus conhecimentos na Engenharia de Software* buscando uma base sólida para construir soluções inovadoras e eficientes.</p>
+<p align="left">Sou Octávio Augusto Campos Ribeiro, tenho 18 anos e sou um entusiasta da programação com formação técnica em Informática para Internet e atualmente cursando Técnico em Desenvolvimento de Sistemas pelo SENAI. Meu próximo passo é aprofundar meus conhecimentos na Engenharia de Software buscando uma base sólida para construir soluções inovadoras e eficientes.</p>
 
 ###
 
@@ -61,4 +61,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octavioaugustocr&layout=compact&theme=dark" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=octavioaugustocr&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhsMnZpdTZwY2d5c2Z5NTFiNzBkaHV1MmVhMnQ2cHd2YmpodWI1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif"  />
 </div>
