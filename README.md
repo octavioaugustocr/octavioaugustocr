@@ -65,6 +65,6 @@
 
 ###
 
-
+<img src="https://raw.githubusercontent.com/octavioaugustocr/octavioaugustocr/output/snake.svg" alt="Snake animation" />
 
 ###
