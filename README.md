@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou Octávio Augusto Campos Ribeiro, tenho 19 anos e sou um entusiasta da programação com formação técnica em Informática para Internet e atualmente cursando Técnico em Desenvolvimento de Sistemas pelo SENAI. Meu próximo passo é aprofundar meus conhecimentos na Engenharia de Software buscando uma base sólida para construir soluções inovadoras e eficientes.</p>
+<p align="left">Sou Octávio Augusto Campos Ribeiro, tenho 19 anos e sou um entusiasta da programação com formação técnica em Informática para Internet e atualmente cursando Técnico em Desenvolvimento de Sistemas pelo SENAI e no primeiro semestre em Análise e Desenvolvimento de Sistemas.</p>
 
 ###
 
